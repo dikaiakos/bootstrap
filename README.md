@@ -1,1 +1,1 @@
-Playing around with bootstrap and git
+Playing around with bootstrap, git and github
